@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3a0041/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部一
+  hash: sha256:0cca43e587e9c707aa7b5087f084e976ac80456101f009f4c0e78ad8fcc2f097
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0041_WYG_000-1a, image: WYG0698/WYG0698-0643a.png}
+body:
+  text: 延平答問儒家類提要臣等謹案延平答問一卷附録一卷宋朱子撰程子之學一傳為楊時再𫝊為羅從彥又再𫝊為李侗侗字願中延平其所居也侗於朱子為父執紹興二十三年朱子二十四嵗將赴同安主簿任往見侗於延平始從受學紹興三十年同安任滿再見侗僅留月餘又閲四載而侗殁計前後相從不過數月故書札往來問答為多後朱子輯而録之又載其與劉平甫二條以成是書朱子門人又取朱子平昔論延平語及祭文行狀別為一卷題曰附録明非朱子原本所有也後侗裔孫葆初別掇拾侗之詩文增入一卷改題曰延平文集且總題為朱子所編殊失其舊今仍録原本而葆初竄亂之本別存目於集部焉乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:56f8fa91e7acd88d5747971f042da575df2316d0b9c6fc02448fb26a068ddee7
+metadata:
+  title: 延平答問
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:58:21.611708'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3a0041/KR3a0041_000.txt
+hash: sha256:169f674b4ffbbb03c19c3e9c75416c195cf85fb41c8e67c694ef5715d6d26a3a
